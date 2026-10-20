@@ -79,4 +79,7 @@ An interactive team-level performance explorer. Includes:
 ├── Scoreline Analysis.png
 ├── KPI Dashboard.png
 
+---
+
+*Built by [Kristin Mooney](https://kristin-mooney.github.io/) | [LinkedIn](https://linkedin.com/in/kristinmooney) | [Portfolio](https://kristin-mooney.github.io/colorado-broadband/)*
 
