@@ -1,4 +1,4 @@
-# ⚽ International Women's Soccer: A Data Story (1991–2026)
+# International Women's Soccer: A Data Story (1991–2026)
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/kristin.mooney/viz/WomensSoccerAnalysis/InternationalWomensSoccerADataStory19912026)
 
@@ -6,11 +6,11 @@ An interactive three-part Tableau story exploring 35 years of international wome
 
 ---
 
-## 🔗 [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/kristin.mooney/viz/WomensSoccerAnalysis/InternationalWomensSoccerADataStory19912026)
+## [View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/kristin.mooney/viz/WomensSoccerAnalysis/InternationalWomensSoccerADataStory19912026)
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 ### Dashboard 1 — 35 Years of Women's Soccer: A Global Overview
 ![Dashboard 1 - Global Overview](<International Soccer Growth.png>)
@@ -47,34 +47,34 @@ An interactive team-level performance explorer. Includes:
 
 ---
 
-## 🔑 Key Findings
+## Key Findings
 
 | Insight | Detail |
 |---|---|
-| 📈 Massive Growth | Women's soccer grew from 25 nations (1991) to 201 nations (2025) |
-| ⚡ More Competitive | Avg goal differential dropped from 3.95 → 2.25 over 35 years |
-| 🇺🇸 USA Dominance | 80% win rate, but avg goal differential dropped from 6.27 → 2.60 |
-| 🏠 Home Field Matters | Home teams score 55% more goals on average than away teams |
-| ⚽ Tight Games | The most common scoreline is 1-0, followed by 2-0 and 2-1 |
-| 🇪🇸 New Scoring Powers | Spain, Japan & Germany driving the recent uptick in goals per match |
+| Massive Growth | Women's soccer grew from 25 nations (1991) to 201 nations (2025) |
+| More Competitive | Avg goal differential dropped from 3.95 → 2.25 over 35 years |
+| USA Dominance | 80% win rate, but avg goal differential dropped from 6.27 → 2.60 |
+| Home Field Matters | Home teams score 55% more goals on average than away teams |
+| Tight Games | The most common scoreline is 1-0, followed by 2-0 and 2-1 |
+| New Scoring Powers | Spain, Japan & Germany driving the recent uptick in goals per match |
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Tableau Desktop** — data visualization and story building
 - **Tableau Public** — publishing and sharing
 
 ---
 
-## 📁 Data Source
+## Data Source
 
 - [Kaggle: International Women's Soccer through 2026](https://www.kaggle.com/)
 - Dataset includes international women's match results, scores, locations, and team metadata from 1991–2026
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ├── International Soccer Growth.png
 ├── Scoreline Analysis.png
 ├── KPI Dashboard.png
