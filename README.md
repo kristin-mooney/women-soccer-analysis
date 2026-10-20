@@ -18,7 +18,7 @@ An interactive three-part Tableau story exploring 35 years of international wome
 A high-level look at the explosive growth of women's international soccer since the first Women's World Cup in 1991. Includes:
 - **Nations Playing Each Year** — line chart showing growth from 25 (1991) to 201 (2025), with a visible COVID-19 dip
 - **Matches Have Gotten More Competitive Over Time** — combined chart showing how average goal differential has dropped from 3.95 to 2.25
-- **Win Dominance by Home Field Advantage** — scatter plot highlighting USA, Germany, France, and North Korea
+- **Win Dominance** — scatter plot highlighting USA, Germany, and France
 - **Global Reach Map** — world map shaded by home match hosting activity
 
 ---
@@ -38,8 +38,8 @@ A deep dive into scoring patterns and match dynamics in the modern era. Includes
 ![Dashboard 3 - KPI Dashboard](<KPI Dashboard.png>)
 
 An interactive team-level performance explorer. Includes:
-- **KPI Tiles** — 6,966 total matches | 56% overall win rate | 2.33 avg goals scored | 2.47 avg goal differential
-- **Match Outcome Breakdown** — win/loss/draw proportions for all 20 teams
+- **KPI Tiles Top 20 Teams** — 6,966 total matches | 56% overall win rate | 2.33 avg goals scored | 2.47 avg goal differential
+- **Match Outcome Breakdown** — win/loss/draw proportions for top 20 teams
 - **Win Rate by Team** — USA leads at 80%, followed by Germany (72%) and France (66%)
 - **Goals Scored vs. Conceded** — USA scores 3.03 goals/match and concedes just 0.55
 
