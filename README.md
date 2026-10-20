@@ -13,7 +13,7 @@ An interactive three-part Tableau story exploring 35 years of international wome
 ## 📊 Dashboard Overview
 
 ### Dashboard 1 — 35 Years of Women's Soccer: A Global Overview
-![Dashboard 1 - Global Overview](screenshots/dashboard1-overview.png)
+![Dashboard 1 - Global Overview](<International Soccer Growth.png>)
 
 A high-level look at the explosive growth of women's international soccer since the first Women's World Cup in 1991. Includes:
 - **Nations Playing Each Year** — line chart showing growth from 25 (1991) to 201 (2025), with a visible COVID-19 dip
@@ -24,7 +24,7 @@ A high-level look at the explosive growth of women's international soccer since 
 ---
 
 ### Dashboard 2 — Modern Era: Scoring Trends & Home Field Advantage (2021–2026)
-![Dashboard 2 - Modern Era](screenshots/dashboard2-modern-era.png)
+![Dashboard 2 - Modern Era](<Scoreline Analysis.png>)
 
 A deep dive into scoring patterns and match dynamics in the modern era. Includes:
 - **Average Goals Per Match Trending** — dipped from 1.97 (2021) to 1.59 (2024), now recovering to 1.78 (2026)
@@ -35,7 +35,7 @@ A deep dive into scoring patterns and match dynamics in the modern era. Includes
 ---
 
 ### Dashboard 3 — Team Deep Dive: KPI Performance Dashboard (Top 20 Teams, 1991–2026)
-![Dashboard 3 - KPI Dashboard](screenshots/dashboard3-kpi.png)
+![Dashboard 3 - KPI Dashboard](<KPI Dashboard.png>)
 
 An interactive team-level performance explorer. Includes:
 - **KPI Tiles** — 6,966 total matches | 56% overall win rate | 2.33 avg goals scored | 2.47 avg goal differential
@@ -75,4 +75,8 @@ An interactive team-level performance explorer. Includes:
 ---
 
 ## 📂 Repository Structure
+├── International Soccer Growth.png
+├── Scoreline Analysis.png
+├── KPI Dashboard.png
+
 
